@@ -24,7 +24,11 @@
 
 ## 4. 聯絡我們
   - 綠界技術客服信箱: techsupport@ecpay.com.tw
-
+  
+## 5. Tools
+- 執行 ECPayAIO_Java/tools/ReEncodeToUTF8.py
+  輸出 UTF8 java 檔案至
+  ECPayAIO_Java/output
 
 
 
